@@ -1,5 +1,5 @@
 # Rent my Car
-A Web Application that facilitate a user to **book a car on rent** or whether wants to **set his car on rent** so that other customers/users can book his car. The application will serve both purposes.
+Car Rental Web application that facilitate the user to book their desire car on rent and to car owner providing them with an interface to rent and manage their rental vehicles.
 
 # Modules 
 1) **Book a car on rent: (module for user/customer)** Customer who wants to rent the car has to just directly give his detail and the choice of the car and the car will be booked. The customer will then receive the **confirmation mail**. After that the customer is also given a feature to cancel the booking but that should be within 2 minutes after the booking otherwise booking cannot be reverting.
